@@ -1,1 +1,0 @@
-# sinxfactor.github.io
