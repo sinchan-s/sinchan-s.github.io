@@ -59,8 +59,9 @@ body {
 }
 
 .blog-header-logo {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+  font-family: "Roboto","Calibri","Arial", sans-serif;
   font-size: 2.25rem;
+  text-decoration: none;
 }
 
 .blog-header-logo:hover {
@@ -68,9 +69,15 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+  font-family: "Roboto","Calibri","Arial",sans-serif/*rtl:Roboto, sans-serif*/;
+  text-decoration: none;
 }
 
+a{
+  font-family: 'Arial', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  text-transform: capitalize;
+}
 .display-4 {
   font-size: 2.5rem;
 }
@@ -102,6 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-post-title {
   font-size: 2.5rem;
+  text-decoration: none;
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
