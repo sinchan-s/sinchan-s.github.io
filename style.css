@@ -3,6 +3,10 @@ body {
   padding-top: 4.5rem;
 }
 
+.top-art{
+  background-color: rgb(226, 137, 63);
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
