@@ -4,4 +4,4 @@ This is personalized blogging website on which I intend to post blogs on machine
 My first two blog posts are on *<b>Life Cycle of Data</b>* & *<b>Machine Learning in Brief</b>*.  
 <b>Here's the website screenshot:</b>   
    
-![image](https://user-images.githubusercontent.com/63915540/178036742-2333e912-d7b0-48b4-9186-330b57e366f0.png)
+![image](https://user-images.githubusercontent.com/63915540/178117702-84d08081-2002-412c-864a-52dcd4c16322.png)
